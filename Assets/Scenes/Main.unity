@@ -48122,7 +48122,7 @@ MonoBehaviour:
     m_Bits: 64
   gunTip: {fileID: 1846033058}
   camera: {fileID: 963194228}
-  player: {fileID: 0}
+  player: {fileID: 1017050203}
 --- !u!120 &1089949947
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -48228,7 +48228,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh24838
+  m_Name: pb_Mesh24424
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
