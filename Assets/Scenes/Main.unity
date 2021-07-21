@@ -48759,8 +48759,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerCam: {fileID: 1699327748}
   orientation: {fileID: 1600713315}
-  moveSpeed: 2000
-  maxSpeed: 10
+  moveSpeed: 4000
+  maxSpeed: 20
   grounded: 0
   whatIsGround:
     serializedVersion: 2
